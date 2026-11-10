@@ -15,4 +15,4 @@ tabuleiro = [
     [" ", " ", " "]
 ]
 
-executando = True
+eSHEecutando = True
